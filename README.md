@@ -1,2 +1,2 @@
-# Tensorflow
-This repo consists of different choices of my tensorflow projects.
+# Tensorflow Sec2
+This repo consists of different codes of my tensorflow projects.
